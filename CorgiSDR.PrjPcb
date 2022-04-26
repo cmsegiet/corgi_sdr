@@ -57,7 +57,7 @@ GenerateClassCluster=0
 DocumentUniqueId=LNGAZYTA
 
 [Document2]
-DocumentPath=DDR3 Memory.SchDoc
+DocumentPath=DDR3 Memory Module One.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -74,6 +74,23 @@ GenerateClassCluster=0
 DocumentUniqueId=YRQQQWVK
 
 [Document3]
+DocumentPath=DDR3 Memory Module Two.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=LNFGWSTT
+
+[Document4]
 DocumentPath=Memory Controller.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -90,7 +107,24 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QNHAFROU
 
-[Document4]
+[Document5]
+DocumentPath=DDR3L Bypassing.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=UZJDCAZC
+
+[Document6]
 DocumentPath=AD9361 RF Frontend.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -107,7 +141,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ICPDWDCZ
 
-[Document5]
+[Document7]
 DocumentPath=AD9361 Baseband and Control.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -124,7 +158,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PLSYMOYM
 
-[Document6]
+[Document8]
 DocumentPath=AD9361 Power.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -141,7 +175,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WKQEHEVZ
 
-[Document7]
+[Document9]
 DocumentPath=CorgiSDR.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -158,7 +192,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DYPFWXXT
 
-[Document8]
+[Document10]
 DocumentPath=CorgiSDR.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -175,7 +209,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QLDRNKPA
 
-[Document9]
+[Document11]
 DocumentPath=CorgiSDR.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
